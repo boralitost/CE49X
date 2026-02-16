@@ -16,3 +16,6 @@ archive/
 
 # Non-notebook files in week directories
 Week*/load_displacement_curve.png
+
+# Local history and tracking
+.specstory/
