@@ -19,3 +19,5 @@ Week*/load_displacement_curve.png
 
 # Executed notebooks
 *_Executed.ipynb
+# Local history and tracking
+.specstory/
