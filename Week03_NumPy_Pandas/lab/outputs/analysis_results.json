@@ -1,0 +1,251 @@
+{
+  "traffic_rows": 75000,
+  "sensor_count": 2439,
+  "date_min": "2024-10-01 00:00:00",
+  "date_max": "2024-10-07 23:00:00",
+  "station_count": 247,
+  "station_source": "Google Places API (Nearby Search)",
+  "avg_hourly_vehicles": 106.076,
+  "avg_speed": 53.198,
+  "top20": [
+    {
+      "GEOHASH": "sxk9vb",
+      "lat": 41.092,
+      "lon": 29.086,
+      "total_vehicle_count": 79395,
+      "mean_daily_vehicle_count": 11342.143,
+      "mean_speed": 54.613,
+      "demand_score": 0.758,
+      "nearest_station_km": 0.491
+    },
+    {
+      "GEOHASH": "sxk9ub",
+      "lat": 41.092,
+      "lon": 29.042,
+      "total_vehicle_count": 69174,
+      "mean_daily_vehicle_count": 9882.0,
+      "mean_speed": 61.369,
+      "demand_score": 0.677,
+      "nearest_station_km": 2.085
+    },
+    {
+      "GEOHASH": "sxk9v0",
+      "lat": 41.092,
+      "lon": 29.053,
+      "total_vehicle_count": 62832,
+      "mean_daily_vehicle_count": 8976.0,
+      "mean_speed": 69.714,
+      "demand_score": 0.619,
+      "nearest_station_km": 1.946
+    },
+    {
+      "GEOHASH": "sxk9u8",
+      "lat": 41.092,
+      "lon": 29.031,
+      "total_vehicle_count": 62566,
+      "mean_daily_vehicle_count": 8938.0,
+      "mean_speed": 58.339,
+      "demand_score": 0.646,
+      "nearest_station_km": 1.24
+    },
+    {
+      "GEOHASH": "sxk9v8",
+      "lat": 41.092,
+      "lon": 29.075,
+      "total_vehicle_count": 61223,
+      "mean_daily_vehicle_count": 8746.143,
+      "mean_speed": 66.976,
+      "demand_score": 0.612,
+      "nearest_station_km": 0.391
+    },
+    {
+      "GEOHASH": "sxk9v2",
+      "lat": 41.092,
+      "lon": 29.064,
+      "total_vehicle_count": 59363,
+      "mean_daily_vehicle_count": 8480.429,
+      "mean_speed": 69.827,
+      "demand_score": 0.597,
+      "nearest_station_km": 1.21
+    },
+    {
+      "GEOHASH": "sxk9ku",
+      "lat": 41.026,
+      "lon": 29.042,
+      "total_vehicle_count": 57254,
+      "mean_daily_vehicle_count": 8179.143,
+      "mean_speed": 37.232,
+      "demand_score": 0.669,
+      "nearest_station_km": 0.296
+    },
+    {
+      "GEOHASH": "sxk9s5",
+      "lat": 41.064,
+      "lon": 29.009,
+      "total_vehicle_count": 53333,
+      "mean_daily_vehicle_count": 7619.0,
+      "mean_speed": 38.732,
+      "demand_score": 0.652,
+      "nearest_station_km": 0.333
+    },
+    {
+      "GEOHASH": "sxk9sh",
+      "lat": 41.07,
+      "lon": 29.009,
+      "total_vehicle_count": 50627,
+      "mean_daily_vehicle_count": 7232.429,
+      "mean_speed": 36.631,
+      "demand_score": 0.638,
+      "nearest_station_km": 0.38
+    },
+    {
+      "GEOHASH": "sxk9m5",
+      "lat": 41.02,
+      "lon": 29.053,
+      "total_vehicle_count": 45778,
+      "mean_daily_vehicle_count": 6539.714,
+      "mean_speed": 45.232,
+      "demand_score": 0.581,
+      "nearest_station_km": 0.453
+    },
+    {
+      "GEOHASH": "sxk9s6",
+      "lat": 41.059,
+      "lon": 29.02,
+      "total_vehicle_count": 43815,
+      "mean_daily_vehicle_count": 6259.286,
+      "mean_speed": 44.952,
+      "demand_score": 0.571,
+      "nearest_station_km": 0.844
+    },
+    {
+      "GEOHASH": "sxk9ky",
+      "lat": 41.037,
+      "lon": 29.042,
+      "total_vehicle_count": 41736,
+      "mean_daily_vehicle_count": 5962.286,
+      "mean_speed": 48.363,
+      "demand_score": 0.55,
+      "nearest_station_km": 1.513
+    },
+    {
+      "GEOHASH": "sxk9kv",
+      "lat": 41.031,
+      "lon": 29.042,
+      "total_vehicle_count": 39126,
+      "mean_daily_vehicle_count": 5589.429,
+      "mean_speed": 48.47,
+      "demand_score": 0.53,
+      "nearest_station_km": 0.903
+    },
+    {
+      "GEOHASH": "sxk9sk",
+      "lat": 41.07,
+      "lon": 29.02,
+      "total_vehicle_count": 37496,
+      "mean_daily_vehicle_count": 5356.571,
+      "mean_speed": 40.542,
+      "demand_score": 0.538,
+      "nearest_station_km": 1.207
+    },
+    {
+      "GEOHASH": "sxk9s8",
+      "lat": 41.048,
+      "lon": 29.031,
+      "total_vehicle_count": 36838,
+      "mean_daily_vehicle_count": 5262.571,
+      "mean_speed": 51.024,
+      "demand_score": 0.525,
+      "nearest_station_km": 1.797
+    },
+    {
+      "GEOHASH": "sxk9kz",
+      "lat": 41.042,
+      "lon": 29.042,
+      "total_vehicle_count": 36477,
+      "mean_daily_vehicle_count": 5211.0,
+      "mean_speed": 44.958,
+      "demand_score": 0.53,
+      "nearest_station_km": 1.356
+    },
+    {
+      "GEOHASH": "sxk9s3",
+      "lat": 41.053,
+      "lon": 29.02,
+      "total_vehicle_count": 34448,
+      "mean_daily_vehicle_count": 4921.143,
+      "mean_speed": 45.036,
+      "demand_score": 0.523,
+      "nearest_station_km": 1.208
+    },
+    {
+      "GEOHASH": "sxk9kg",
+      "lat": 41.02,
+      "lon": 29.042,
+      "total_vehicle_count": 33779,
+      "mean_daily_vehicle_count": 4825.571,
+      "mean_speed": 28.958,
+      "demand_score": 0.537,
+      "nearest_station_km": 0.325
+    },
+    {
+      "GEOHASH": "sxk9s9",
+      "lat": 41.053,
+      "lon": 29.031,
+      "total_vehicle_count": 32860,
+      "mean_daily_vehicle_count": 4694.286,
+      "mean_speed": 50.673,
+      "demand_score": 0.503,
+      "nearest_station_km": 1.739
+    },
+    {
+      "GEOHASH": "sxkdr5",
+      "lat": 41.196,
+      "lon": 29.141,
+      "total_vehicle_count": 31454,
+      "mean_daily_vehicle_count": 4493.429,
+      "mean_speed": 93.387,
+      "demand_score": 0.362,
+      "nearest_station_km": 0.53
+    }
+  ],
+  "proposed": [
+    {
+      "GEOHASH": "sxk9vb",
+      "lat": 41.092,
+      "lon": 29.086,
+      "district": "Beykoz",
+      "demand_score": 0.758,
+      "nearest_station_km": 0.491,
+      "mean_daily_vehicle_count": 11342.143,
+      "mean_speed": 54.613,
+      "underserved_score": 0.608
+    },
+    {
+      "GEOHASH": "sxk9ub",
+      "lat": 41.092,
+      "lon": 29.042,
+      "district": "Sar\u0131yer",
+      "demand_score": 0.677,
+      "nearest_station_km": 2.085,
+      "mean_daily_vehicle_count": 9882.0,
+      "mean_speed": 61.369,
+      "underserved_score": 0.548
+    },
+    {
+      "GEOHASH": "sxk9ku",
+      "lat": 41.026,
+      "lon": 29.042,
+      "district": "\u00dcsk\u00fcdar",
+      "demand_score": 0.669,
+      "nearest_station_km": 0.296,
+      "mean_daily_vehicle_count": 8179.143,
+      "mean_speed": 37.232,
+      "underserved_score": 0.536
+    }
+  ],
+  "sensitivity": {
+    "base_vs_alt1_top10_overlap": 8,
+    "base_vs_alt2_top10_overlap": 10
+  }
+}
