@@ -22,3 +22,9 @@ Week*/load_displacement_curve.png
 
 # Local history and tracking
 .specstory/
+
+# Local dev / notebook tooling (do not commit)
+.cache/
+.mplconfig/
+.pydeps/
+.vscode/
